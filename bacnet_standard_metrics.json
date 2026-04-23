@@ -38,10 +38,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "1",
@@ -75,10 +72,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "2",
@@ -112,10 +106,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "3",
@@ -149,10 +140,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "4",
@@ -186,10 +174,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "5",
@@ -223,10 +208,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "6",
@@ -260,10 +242,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "7",
@@ -297,10 +276,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "8",
@@ -334,10 +310,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "9",
@@ -371,10 +344,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "10",
@@ -408,10 +378,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "11",
@@ -445,10 +412,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "12",
@@ -482,10 +446,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "13",
@@ -519,10 +480,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "14",
@@ -556,10 +514,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "15",
@@ -593,10 +548,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "16",
@@ -630,10 +582,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "17",
@@ -667,10 +616,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "18",
@@ -704,10 +650,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "19",
@@ -741,10 +684,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "20",
@@ -778,10 +718,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "21",
@@ -815,10 +752,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "22",
@@ -852,10 +786,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "23",
@@ -889,10 +820,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "24",
@@ -926,10 +854,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "25",
@@ -963,10 +888,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "26",
@@ -1000,10 +922,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "27",
@@ -1037,10 +956,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "28",
@@ -1074,10 +990,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "29",
@@ -1111,10 +1024,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "30",
@@ -1148,10 +1058,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "31",
@@ -1185,10 +1092,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "32",
@@ -1222,10 +1126,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "33",
@@ -1259,10 +1160,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "34",
@@ -1296,10 +1194,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "35",
@@ -1333,10 +1228,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "36",
@@ -1370,10 +1262,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "37",
@@ -1407,10 +1296,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "38",
@@ -1444,10 +1330,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "39",
@@ -1481,10 +1364,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "40",
@@ -1518,10 +1398,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "41",
@@ -1555,10 +1432,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "42",
@@ -1592,10 +1466,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "43",
@@ -1629,10 +1500,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "44",
@@ -1666,10 +1534,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "45",
@@ -1703,10 +1568,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "46",
@@ -1740,10 +1602,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "47",
@@ -1777,10 +1636,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "48",
@@ -1814,10 +1670,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "49",
@@ -1851,10 +1704,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "50",
@@ -1888,10 +1738,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "51",
@@ -1925,10 +1772,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "52",
@@ -1962,10 +1806,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "53",
@@ -1999,10 +1840,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "54",
@@ -2036,10 +1874,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "55",
@@ -2073,10 +1908,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "56",
@@ -2110,10 +1942,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "57",
@@ -2147,10 +1976,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "58",
@@ -2184,10 +2010,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "59",
@@ -2221,10 +2044,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "60",
@@ -2258,10 +2078,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "61",
@@ -2295,10 +2112,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "62",
@@ -2332,10 +2146,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "63",
@@ -2369,10 +2180,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "64",
@@ -2406,10 +2214,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "65",
@@ -2443,10 +2248,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "66",
@@ -2480,10 +2282,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "67",
@@ -2517,10 +2316,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "68",
@@ -2554,10 +2350,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "69",
@@ -2591,10 +2384,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "70",
@@ -2628,10 +2418,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "71",
@@ -2665,10 +2452,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "72",
@@ -2702,10 +2486,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "73",
@@ -2739,10 +2520,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "74",
@@ -2776,10 +2554,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "75",
@@ -2813,10 +2588,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "76",
@@ -2850,10 +2622,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "77",
@@ -2887,10 +2656,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "78",
@@ -2924,10 +2690,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "79",
@@ -2961,10 +2724,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "80",
@@ -2998,10 +2758,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "81",
@@ -3035,10 +2792,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "82",
@@ -3072,10 +2826,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "83",
@@ -3109,10 +2860,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "84",
@@ -3146,10 +2894,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "85",
@@ -3183,10 +2928,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "86",
@@ -3220,10 +2962,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "87",
@@ -3257,10 +2996,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "88",
@@ -3294,10 +3030,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "89",
@@ -3331,10 +3064,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "90",
@@ -3368,10 +3098,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "91",
@@ -3405,10 +3132,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "92",
@@ -3442,10 +3166,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "93",
@@ -3479,10 +3200,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "94",
@@ -3516,10 +3234,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "95",
@@ -3553,10 +3268,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "96",
@@ -3590,10 +3302,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "97",
@@ -3627,10 +3336,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "98",
@@ -3664,10 +3370,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "99",
@@ -3701,10 +3404,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "100",
@@ -3738,10 +3438,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "101",
@@ -3775,10 +3472,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "102",
@@ -3812,10 +3506,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "103",
@@ -3849,10 +3540,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "104",
@@ -3886,10 +3574,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "105",
@@ -3923,10 +3608,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "106",
@@ -3960,10 +3642,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "107",
@@ -3997,10 +3676,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "108",
@@ -4034,10 +3710,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "109",
@@ -4071,10 +3744,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "110",
@@ -4108,10 +3778,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "111",
@@ -4145,10 +3812,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "112",
@@ -4182,10 +3846,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "113",
@@ -4219,10 +3880,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "114",
@@ -4256,10 +3914,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "115",
@@ -4293,10 +3948,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "116",
@@ -4330,10 +3982,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "117",
@@ -4367,10 +4016,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "118",
@@ -4404,10 +4050,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "119",
@@ -4441,10 +4084,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "120",
@@ -4478,10 +4118,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "121",
@@ -4515,10 +4152,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "122",
@@ -4552,10 +4186,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "123",
@@ -4589,10 +4220,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "124",
@@ -4626,10 +4254,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "125",
@@ -4663,10 +4288,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "126",
@@ -4700,10 +4322,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "127",
@@ -4737,10 +4356,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "128",
@@ -4774,10 +4390,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "129",
@@ -4811,10 +4424,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "130",
@@ -4848,10 +4458,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "131",
@@ -4885,10 +4492,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "132",
@@ -4922,10 +4526,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "133",
@@ -4959,10 +4560,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "134",
@@ -4996,10 +4594,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "135",
@@ -5033,10 +4628,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "136",
@@ -5070,10 +4662,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "137",
@@ -5107,10 +4696,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "138",
@@ -5144,10 +4730,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "139",
@@ -5181,10 +4764,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "140",
@@ -5218,10 +4798,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "141",
@@ -5255,10 +4832,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "142",
@@ -5292,10 +4866,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "143",
@@ -5329,10 +4900,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "144",
@@ -5366,10 +4934,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "145",
@@ -5403,10 +4968,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "146",
@@ -5440,10 +5002,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "147",
@@ -5477,10 +5036,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "148",
@@ -5514,10 +5070,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "149",
@@ -5551,10 +5104,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "150",
@@ -5588,10 +5138,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "151",
@@ -5625,10 +5172,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "152",
@@ -5662,10 +5206,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "153",
@@ -5699,10 +5240,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "154",
@@ -5736,10 +5274,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "155",
@@ -5773,10 +5308,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "156",
@@ -5810,10 +5342,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "157",
@@ -5847,10 +5376,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "158",
@@ -5884,10 +5410,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "159",
@@ -5921,10 +5444,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "160",
@@ -5958,10 +5478,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "161",
@@ -5995,10 +5512,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "162",
@@ -6032,10 +5546,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "163",
@@ -6069,10 +5580,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "164",
@@ -6106,10 +5614,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "165",
@@ -6143,10 +5648,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "166",
@@ -6180,10 +5682,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "167",
@@ -6217,10 +5716,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "168",
@@ -6254,10 +5750,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "169",
@@ -6291,10 +5784,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "170",
@@ -6328,10 +5818,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "171",
@@ -6365,10 +5852,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "172",
@@ -6402,10 +5886,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "173",
@@ -6439,10 +5920,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "174",
@@ -6476,10 +5954,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "175",
@@ -6513,10 +5988,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "176",
@@ -6550,10 +6022,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "177",
@@ -6587,10 +6056,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "178",
@@ -6624,10 +6090,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "179",
@@ -6661,10 +6124,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "180",
@@ -6698,10 +6158,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "181",
@@ -6735,10 +6192,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "182",
@@ -6772,10 +6226,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "183",
@@ -6809,10 +6260,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "184",
@@ -6846,10 +6294,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "185",
@@ -6883,10 +6328,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "186",
@@ -6920,10 +6362,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "187",
@@ -6957,10 +6396,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "188",
@@ -6994,10 +6430,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "189",
@@ -7031,10 +6464,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "190",
@@ -7068,10 +6498,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "191",
@@ -7105,10 +6532,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "192",
@@ -7142,10 +6566,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "193",
@@ -7179,10 +6600,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "194",
@@ -7216,10 +6634,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "195",
@@ -7253,10 +6668,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "196",
@@ -7290,10 +6702,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "197",
@@ -7327,10 +6736,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "198",
@@ -7364,10 +6770,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "199",
@@ -7401,10 +6804,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "200",
@@ -7438,10 +6838,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "201",
@@ -7475,10 +6872,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "202",
@@ -7512,10 +6906,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "203",
@@ -7549,10 +6940,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "204",
@@ -7586,10 +6974,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "205",
@@ -7623,10 +7008,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "206",
@@ -7660,10 +7042,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "207",
@@ -7697,10 +7076,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "208",
@@ -7734,10 +7110,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "209",
@@ -7771,10 +7144,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "210",
@@ -7808,10 +7178,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "211",
@@ -7845,10 +7212,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "212",
@@ -7882,10 +7246,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "213",
@@ -7919,10 +7280,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "214",
@@ -7956,10 +7314,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "215",
@@ -7993,10 +7348,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "216",
@@ -8030,10 +7382,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "217",
@@ -8067,10 +7416,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "218",
@@ -8104,10 +7450,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "219",
@@ -8141,10 +7484,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "220",
@@ -8178,10 +7518,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "221",
@@ -8215,10 +7552,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "222",
@@ -8252,10 +7586,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "223",
@@ -8289,10 +7620,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "224",
@@ -8326,10 +7654,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "225",
@@ -8363,10 +7688,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "226",
@@ -8400,10 +7722,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "227",
@@ -8437,10 +7756,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "228",
@@ -8474,10 +7790,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "229",
@@ -8511,10 +7824,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "230",
@@ -8548,10 +7858,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "231",
@@ -8585,10 +7892,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "232",
@@ -8622,10 +7926,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "233",
@@ -8659,10 +7960,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "234",
@@ -8696,10 +7994,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "235",
@@ -8733,10 +8028,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "236",
@@ -8770,10 +8062,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "237",
@@ -8807,10 +8096,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "238",
@@ -8844,10 +8130,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "239",
@@ -8881,10 +8164,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "240",
@@ -8918,10 +8198,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "241",
@@ -8955,10 +8232,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "242",
@@ -8992,10 +8266,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "243",
@@ -9029,10 +8300,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "244",
@@ -9066,10 +8334,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "245",
@@ -9103,10 +8368,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "246",
@@ -9140,10 +8402,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "247",
@@ -9177,10 +8436,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "248",
@@ -9214,10 +8470,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "249",
@@ -9251,10 +8504,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "250",
@@ -9288,10 +8538,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "251",
@@ -9325,10 +8572,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "252",
@@ -9362,10 +8606,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "253",
@@ -9399,10 +8640,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "254",
@@ -9436,10 +8674,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "47808",
@@ -9473,10 +8708,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "47809",
@@ -9510,10 +8742,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "47810",
@@ -9547,10 +8776,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "47811",
@@ -9584,10 +8810,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "47812",
@@ -9621,10 +8844,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "47814",
@@ -9658,10 +8878,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     },
     {
       "metric_id": "47815",
@@ -9695,10 +8912,7 @@
         "Analog Value"
       ],
       "bacnet_property": "Present_Value",
-      "value_conversion": {
-        "formula_to_bus": "float(ui_value)",
-        "formula_from_bus": "float(raw_value)"
-      }
+      "value_conversion": null
     }
   ]
 }
