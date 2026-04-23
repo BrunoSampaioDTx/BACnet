@@ -28,7 +28,7 @@ tooling.
 | `sparkplug_data_type` / `sparkplug_data_type_value` | Sparkplug B mapping. |
 | `bacnet_object_types`, `bacnet_property` | Where the metric is typically reported. |
 | `permission` | Access mode of `Present_Value`. `read-write` because Analog Output `Present_Value` is commandable and Analog Value `Present_Value` is writable when commandable; Analog Input `Present_Value` is also writable while `Out_Of_Service` is `TRUE`. |
-| `value_conversion` | UI ↔ bus conversion formulas (`null` when no transform is needed). |
+| `notes` | Short per-metric remark (typical conversion factor, BACnet-specific caveat, or usage hint). |
 
 Reserved and proprietary range markers from the enumeration are omitted —
 only standardized metrics are listed.
