@@ -27,7 +27,8 @@ tooling.
 | `value_min`, `value_max`, `resolution`, `step` | Range and smallest meaningful increment of the carried `REAL` value (`step` is IEEE 754 single-precision epsilon at value 1.0, ≈ `1.1920929e-07`). |
 | `sparkplug_data_type` / `sparkplug_data_type_value` | Sparkplug B mapping. |
 | `bacnet_object_types`, `bacnet_property` | Where the metric is typically reported. |
-| `value_conversion` | UI ↔ bus conversion formulas. |
+| `permission` | Access mode of `Present_Value`. `read-write` because Analog Output `Present_Value` is commandable and Analog Value `Present_Value` is writable when commandable; Analog Input `Present_Value` is also writable while `Out_Of_Service` is `TRUE`. |
+| `value_conversion` | UI ↔ bus conversion formulas (`null` when no transform is needed). |
 
 Reserved and proprietary range markers from the enumeration are omitted —
 only standardized metrics are listed.

@@ -31,7 +31,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -65,7 +65,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -99,7 +99,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -133,7 +133,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -167,7 +167,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -201,7 +201,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -235,7 +235,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -269,7 +269,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -303,7 +303,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -337,7 +337,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -371,7 +371,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -405,7 +405,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -439,7 +439,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -473,7 +473,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -507,7 +507,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -541,7 +541,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -575,7 +575,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -609,7 +609,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -643,7 +643,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -677,7 +677,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -711,7 +711,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -745,7 +745,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -779,7 +779,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -813,7 +813,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -847,7 +847,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -881,7 +881,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -915,7 +915,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -949,7 +949,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -983,7 +983,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1017,7 +1017,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1051,7 +1051,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1085,7 +1085,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1119,7 +1119,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1153,7 +1153,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1187,7 +1187,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1221,7 +1221,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1255,7 +1255,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1289,7 +1289,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1323,7 +1323,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1357,7 +1357,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1391,7 +1391,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1425,7 +1425,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1459,7 +1459,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1493,7 +1493,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1527,7 +1527,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1561,7 +1561,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1595,7 +1595,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1629,7 +1629,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1663,7 +1663,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1697,7 +1697,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1731,7 +1731,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1765,7 +1765,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1799,7 +1799,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1833,7 +1833,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1867,7 +1867,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1901,7 +1901,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1935,7 +1935,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -1969,7 +1969,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2003,7 +2003,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2037,7 +2037,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2071,7 +2071,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2105,7 +2105,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2139,7 +2139,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2173,7 +2173,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2207,7 +2207,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2241,7 +2241,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2275,7 +2275,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2309,7 +2309,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2343,7 +2343,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2377,7 +2377,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2411,7 +2411,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2445,7 +2445,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2479,7 +2479,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2513,7 +2513,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2547,7 +2547,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2581,7 +2581,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2615,7 +2615,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2649,7 +2649,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2683,7 +2683,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2717,7 +2717,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2751,7 +2751,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2785,7 +2785,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2819,7 +2819,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2853,7 +2853,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2887,7 +2887,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2921,7 +2921,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2955,7 +2955,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -2989,7 +2989,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3023,7 +3023,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3057,7 +3057,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3091,7 +3091,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3125,7 +3125,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3159,7 +3159,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3193,7 +3193,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3227,7 +3227,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3261,7 +3261,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3295,7 +3295,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3329,7 +3329,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3363,7 +3363,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3397,7 +3397,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3431,7 +3431,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3465,7 +3465,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3499,7 +3499,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3533,7 +3533,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3567,7 +3567,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3601,7 +3601,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3635,7 +3635,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3669,7 +3669,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3703,7 +3703,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3737,7 +3737,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3771,7 +3771,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3805,7 +3805,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3839,7 +3839,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3873,7 +3873,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3907,7 +3907,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3941,7 +3941,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -3975,7 +3975,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4009,7 +4009,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4043,7 +4043,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4077,7 +4077,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4111,7 +4111,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4145,7 +4145,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4179,7 +4179,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4213,7 +4213,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4247,7 +4247,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4281,7 +4281,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4315,7 +4315,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4349,7 +4349,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4383,7 +4383,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4417,7 +4417,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4451,7 +4451,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4485,7 +4485,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4519,7 +4519,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4553,7 +4553,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4587,7 +4587,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4621,7 +4621,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4655,7 +4655,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4689,7 +4689,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4723,7 +4723,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4757,7 +4757,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4791,7 +4791,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4825,7 +4825,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4859,7 +4859,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4893,7 +4893,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4927,7 +4927,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4961,7 +4961,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -4995,7 +4995,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5029,7 +5029,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5063,7 +5063,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5097,7 +5097,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5131,7 +5131,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5165,7 +5165,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5199,7 +5199,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5233,7 +5233,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5267,7 +5267,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5301,7 +5301,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5335,7 +5335,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5369,7 +5369,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5403,7 +5403,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5437,7 +5437,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5471,7 +5471,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5505,7 +5505,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5539,7 +5539,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5573,7 +5573,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5607,7 +5607,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5641,7 +5641,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5675,7 +5675,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5709,7 +5709,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5743,7 +5743,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5777,7 +5777,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5811,7 +5811,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5845,7 +5845,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5879,7 +5879,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5913,7 +5913,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5947,7 +5947,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -5981,7 +5981,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6015,7 +6015,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6049,7 +6049,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6083,7 +6083,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6117,7 +6117,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6151,7 +6151,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6185,7 +6185,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6219,7 +6219,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6253,7 +6253,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6287,7 +6287,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6321,7 +6321,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6355,7 +6355,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6389,7 +6389,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6423,7 +6423,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6457,7 +6457,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6491,7 +6491,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6525,7 +6525,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6559,7 +6559,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6593,7 +6593,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6627,7 +6627,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6661,7 +6661,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6695,7 +6695,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6729,7 +6729,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6763,7 +6763,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6797,7 +6797,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6831,7 +6831,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6865,7 +6865,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6899,7 +6899,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6933,7 +6933,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -6967,7 +6967,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7001,7 +7001,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7035,7 +7035,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7069,7 +7069,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7103,7 +7103,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7137,7 +7137,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7171,7 +7171,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7205,7 +7205,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7239,7 +7239,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7273,7 +7273,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7307,7 +7307,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7341,7 +7341,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7375,7 +7375,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7409,7 +7409,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7443,7 +7443,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7477,7 +7477,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7511,7 +7511,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7545,7 +7545,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7579,7 +7579,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7613,7 +7613,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7647,7 +7647,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7681,7 +7681,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7715,7 +7715,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7749,7 +7749,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7783,7 +7783,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7817,7 +7817,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7851,7 +7851,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7885,7 +7885,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7919,7 +7919,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7953,7 +7953,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -7987,7 +7987,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8021,7 +8021,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8055,7 +8055,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8089,7 +8089,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8123,7 +8123,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8157,7 +8157,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8191,7 +8191,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8225,7 +8225,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8259,7 +8259,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8293,7 +8293,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8327,7 +8327,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8361,7 +8361,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8395,7 +8395,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8429,7 +8429,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8463,7 +8463,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8497,7 +8497,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8531,7 +8531,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8565,7 +8565,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8599,7 +8599,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8633,7 +8633,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8667,7 +8667,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8701,7 +8701,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8735,7 +8735,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8769,7 +8769,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8803,7 +8803,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8837,7 +8837,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8871,7 +8871,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
@@ -8905,7 +8905,7 @@
       "notes": null,
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-only",
+      "permission": "read-write",
       "bacnet_object_types": [
         "Analog Input",
         "Analog Output",
