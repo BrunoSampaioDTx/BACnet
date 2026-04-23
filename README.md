@@ -24,7 +24,7 @@ tooling.
 | `unit` | Unit symbol (e.g. `°C`, `kWh`, `m³/h`). |
 | `category` | Grouping (`temperature`, `electrical`, `energy`, …). |
 | `data_type`, `encoding`, `size_bits`, `size_bytes` | Wire encoding of the carried value. |
-| `value_min`, `value_max`, `resolution` | Range of the carried `REAL` value. |
+| `value_min`, `value_max`, `resolution`, `step` | Range and smallest meaningful increment of the carried `REAL` value (`step` is IEEE 754 single-precision epsilon at value 1.0, ≈ `1.1920929e-07`). |
 | `sparkplug_data_type` / `sparkplug_data_type_value` | Sparkplug B mapping. |
 | `bacnet_object_types`, `bacnet_property` | Where the metric is typically reported. |
 | `value_conversion` | UI ↔ bus conversion formulas. |
