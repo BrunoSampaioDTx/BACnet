@@ -29,13 +29,7 @@
       "notes": "SI base for area; equals 10.7639 ft².",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "1",
@@ -60,13 +54,7 @@
       "notes": "Imperial area unit; 1 ft² = 0.092903 m².",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "2",
@@ -91,13 +79,7 @@
       "notes": "1/1000 of an ampere; commonly used for 4–20 mA process loops.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "3",
@@ -122,13 +104,7 @@
       "notes": "SI base unit of electric current.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "4",
@@ -153,13 +129,7 @@
       "notes": "SI unit of resistance; V/A.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "5",
@@ -184,13 +154,7 @@
       "notes": "SI unit of electric potential; J/C.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "6",
@@ -215,13 +179,7 @@
       "notes": "1 kV = 1 000 V; used for medium-voltage distribution.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "7",
@@ -246,13 +204,7 @@
       "notes": "1 MV = 1 000 000 V; high-voltage transmission only.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "8",
@@ -277,13 +229,7 @@
       "notes": "Apparent power S = V·I (RMS); equals real power only at unity PF.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "9",
@@ -308,13 +254,7 @@
       "notes": "1 kVA = 1 000 VA; common transformer rating unit.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "10",
@@ -339,13 +279,7 @@
       "notes": "1 MVA = 1 000 000 VA; large transformer / substation rating.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "11",
@@ -370,13 +304,7 @@
       "notes": "Reactive power Q = V·I·sin(φ); positive for inductive loads.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "12",
@@ -401,13 +329,7 @@
       "notes": "1 kvar = 1 000 var.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "13",
@@ -432,13 +354,7 @@
       "notes": "1 Mvar = 1 000 000 var; transmission-scale reactive power.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "14",
@@ -463,13 +379,7 @@
       "notes": "Phase angle between voltage and current; typically –90°…+90°.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "15",
@@ -494,13 +404,7 @@
       "notes": "Dimensionless ratio P/S in –1…+1; sign indicates leading/lagging.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "16",
@@ -525,13 +429,7 @@
       "notes": "SI unit of energy; 1 J = 1 W·s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "17",
@@ -556,13 +454,7 @@
       "notes": "1 kJ = 1 000 J.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "18",
@@ -587,13 +479,7 @@
       "notes": "1 Wh = 3 600 J; metering accumulator.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "19",
@@ -618,13 +504,7 @@
       "notes": "1 kWh = 3.6 MJ; standard utility-billing unit for active energy.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "20",
@@ -649,13 +529,7 @@
       "notes": "1 BTU ≈ 1 055.06 J (IT BTU).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "21",
@@ -680,13 +554,7 @@
       "notes": "1 thm ≈ 105.5 MJ (≈ 100 000 BTU); US natural-gas billing.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "22",
@@ -711,13 +579,7 @@
       "notes": "1 ton-hour ≈ 12 660 BTU = 3.517 kWh of cooling energy.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "23",
@@ -742,13 +604,7 @@
       "notes": "Specific enthalpy referenced to dry-air mass for psychrometrics.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "24",
@@ -773,13 +629,7 @@
       "notes": "Specific enthalpy on dry-air basis (imperial).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "25",
@@ -804,13 +654,7 @@
       "notes": "Cycles per hour; equals Hz/3600.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "26",
@@ -835,13 +679,7 @@
       "notes": "Cycles per minute; equals Hz/60.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "27",
@@ -866,13 +704,7 @@
       "notes": "SI unit of frequency; 1 Hz = 1 cycle/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "28",
@@ -897,13 +729,7 @@
       "notes": "Absolute humidity ratio: mass of water vapour per kg of dry air.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "29",
@@ -928,13 +754,7 @@
       "notes": "Relative humidity, valid 0–100 %.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "30",
@@ -959,13 +779,7 @@
       "notes": "1 mm = 0.001 m.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "31",
@@ -990,13 +804,7 @@
       "notes": "SI base unit of length.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "32",
@@ -1021,13 +829,7 @@
       "notes": "1 in = 25.4 mm exactly.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "33",
@@ -1052,13 +854,7 @@
       "notes": "1 ft = 12 in = 0.3048 m exactly.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "34",
@@ -1083,13 +879,7 @@
       "notes": "Solar/thermal irradiance in imperial units; 1 W/ft² ≈ 10.764 W/m².",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "35",
@@ -1114,13 +904,7 @@
       "notes": "Solar/thermal irradiance.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "36",
@@ -1145,13 +929,7 @@
       "notes": "Total luminous flux emitted by a source.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "37",
@@ -1176,13 +954,7 @@
       "notes": "Illuminance at a surface; 1 lx = 1 lm/m².",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "38",
@@ -1207,13 +979,7 @@
       "notes": "Imperial illuminance; 1 fc ≈ 10.764 lx.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "39",
@@ -1238,13 +1004,7 @@
       "notes": "SI base unit of mass.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "40",
@@ -1269,13 +1029,7 @@
       "notes": "1 lb = 0.45359237 kg exactly.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "41",
@@ -1300,13 +1054,7 @@
       "notes": "Short ton = 2 000 lb ≈ 907.18474 kg (not the metric tonne).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "42",
@@ -1331,13 +1079,7 @@
       "notes": "SI mass-flow unit.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "43",
@@ -1362,13 +1104,7 @@
       "notes": "1 kg/min = 1/60 kg/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "44",
@@ -1393,13 +1129,7 @@
       "notes": "1 kg/h = 1/3600 kg/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "45",
@@ -1424,13 +1154,7 @@
       "notes": "Imperial mass flow.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "46",
@@ -1455,13 +1179,7 @@
       "notes": "Imperial mass flow.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "47",
@@ -1486,13 +1204,7 @@
       "notes": "SI unit of power; 1 W = 1 J/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "48",
@@ -1517,13 +1229,7 @@
       "notes": "1 kW = 1 000 W.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "49",
@@ -1548,13 +1254,7 @@
       "notes": "1 MW = 1 000 000 W.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "50",
@@ -1579,13 +1279,7 @@
       "notes": "1 BTU/h ≈ 0.29307 W.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "51",
@@ -1610,13 +1304,7 @@
       "notes": "Mechanical horsepower ≈ 745.6999 W.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "52",
@@ -1641,13 +1329,7 @@
       "notes": "Refrigeration ton ≈ 3 516.85 W (12 000 BTU/h).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "53",
@@ -1672,13 +1354,7 @@
       "notes": "SI unit of pressure; 1 Pa = 1 N/m². Often too small for HVAC ranges.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "54",
@@ -1703,13 +1379,7 @@
       "notes": "1 kPa = 1 000 Pa.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "55",
@@ -1734,13 +1404,7 @@
       "notes": "1 bar = 100 000 Pa = 100 kPa (≈ 1 atm).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "56",
@@ -1765,13 +1429,7 @@
       "notes": "1 psi ≈ 6 894.76 Pa.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "57",
@@ -1796,13 +1454,7 @@
       "notes": "Pressure as height of a water column; 1 cmH₂O ≈ 98.0665 Pa (4 °C).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "58",
@@ -1827,13 +1479,7 @@
       "notes": "1 inH₂O ≈ 248.84 Pa (60 °F); common for low HVAC duct pressure.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "59",
@@ -1858,13 +1504,7 @@
       "notes": "1 mmHg ≈ 133.322 Pa = 1 Torr.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "60",
@@ -1889,13 +1529,7 @@
       "notes": "1 cmHg = 10 mmHg ≈ 1 333.22 Pa.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "61",
@@ -1920,13 +1554,7 @@
       "notes": "1 inHg ≈ 3 386.39 Pa; barometric-pressure convention in the US.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "62",
@@ -1951,13 +1579,7 @@
       "notes": "SI derived; T(K) = T(°C) + 273.15.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "63",
@@ -1982,13 +1604,7 @@
       "notes": "BACnet name uses 'degrees-kelvin' but kelvin is dimensionless ('K', not '°K').",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "64",
@@ -2013,13 +1629,7 @@
       "notes": "T(°F) = T(°C) × 9/5 + 32.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "65",
@@ -2044,13 +1654,7 @@
       "notes": "Heating/cooling degree-days summed over the period (°C·day).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "66",
@@ -2075,13 +1679,7 @@
       "notes": "Heating/cooling degree-days summed over the period (°F·day).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "67",
@@ -2106,13 +1704,7 @@
       "notes": "Calendar year; precise length depends on definition (use with care).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "68",
@@ -2137,13 +1729,7 @@
       "notes": "Calendar month; nominal value (not constant).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "69",
@@ -2168,13 +1754,7 @@
       "notes": "1 wk = 7 d = 604 800 s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "70",
@@ -2199,13 +1779,7 @@
       "notes": "1 d = 86 400 s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "71",
@@ -2230,13 +1804,7 @@
       "notes": "1 h = 3 600 s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "72",
@@ -2261,13 +1829,7 @@
       "notes": "1 min = 60 s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "73",
@@ -2292,13 +1854,7 @@
       "notes": "SI base unit of time.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "74",
@@ -2323,13 +1879,7 @@
       "notes": "SI velocity unit.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "75",
@@ -2354,13 +1904,7 @@
       "notes": "1 km/h = 1/3.6 m/s ≈ 0.2778 m/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "76",
@@ -2385,13 +1929,7 @@
       "notes": "1 ft/s = 0.3048 m/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "77",
@@ -2416,13 +1954,7 @@
       "notes": "1 ft/min = 0.00508 m/s; common for air-velocity sensors.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "78",
@@ -2447,13 +1979,7 @@
       "notes": "1 mph = 0.44704 m/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "79",
@@ -2478,13 +2004,7 @@
       "notes": "1 ft³ ≈ 0.028317 m³.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "80",
@@ -2509,13 +2029,7 @@
       "notes": "SI unit of volume; 1 m³ = 1 000 L.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "81",
@@ -2540,13 +2054,7 @@
       "notes": "Imperial gallon ≈ 4.54609 L (≠ US gallon).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "82",
@@ -2571,13 +2079,7 @@
       "notes": "1 L = 0.001 m³.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "83",
@@ -2602,13 +2104,7 @@
       "notes": "US gallon ≈ 3.78541 L (≠ imperial gallon).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "84",
@@ -2633,13 +2129,7 @@
       "notes": "1 ft³/min (CFM) ≈ 0.000472 m³/s; HVAC airflow.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "85",
@@ -2664,13 +2154,7 @@
       "notes": "SI volumetric-flow unit.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "86",
@@ -2695,13 +2179,7 @@
       "notes": "Imperial gallons per minute (≠ US GPM).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "87",
@@ -2726,13 +2204,7 @@
       "notes": "1 L/s = 0.001 m³/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "88",
@@ -2757,13 +2229,7 @@
       "notes": "1 L/min = 1/60 L/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "89",
@@ -2788,13 +2254,7 @@
       "notes": "US GPM ≈ 0.0631 L/s (≠ imperial GPM).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "90",
@@ -2819,13 +2279,7 @@
       "notes": "Plane angle in degrees (0..360).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "91",
@@ -2850,13 +2304,7 @@
       "notes": "1 °C/h = 1/3600 °C/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "92",
@@ -2881,13 +2329,7 @@
       "notes": "1 °C/min = 1/60 °C/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "93",
@@ -2912,13 +2354,7 @@
       "notes": "1 °F/h = 1/3600 °F/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "94",
@@ -2943,13 +2379,7 @@
       "notes": "1 °F/min = 1/60 °F/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "95",
@@ -2974,13 +2404,7 @@
       "notes": "Use when no engineering unit applies (counters, indices, raw counts).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "96",
@@ -3005,13 +2429,7 @@
       "notes": "1 ppm = 1e-6 mass/volume fraction depending on context.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "97",
@@ -3036,13 +2454,7 @@
       "notes": "1 ppb = 1e-9; trace-gas / pollutant concentration.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "98",
@@ -3067,13 +2479,7 @@
       "notes": "Percent value, typically 0..100.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "99",
@@ -3098,13 +2504,7 @@
       "notes": "Rate of change of a percent value (e.g., damper position derivative).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "100",
@@ -3129,13 +2529,7 @@
       "notes": "Generic per-minute rate (events, pulses).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "101",
@@ -3160,13 +2554,7 @@
       "notes": "Generic per-second rate (events, pulses).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "102",
@@ -3191,13 +2579,7 @@
       "notes": "Pressure-temperature coefficient (e.g., gas-cylinder rating).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "103",
@@ -3222,13 +2604,7 @@
       "notes": "1 rad = 180/π degrees ≈ 57.2958°.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "104",
@@ -3253,13 +2629,7 @@
       "notes": "Rotational speed; 1 rpm = 2π/60 rad/s ≈ 0.10472 rad/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "105",
@@ -3284,13 +2654,7 @@
       "notes": "BACnet currency slot 1; meaning is locally configured by the site (e.g., USD, EUR).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "106",
@@ -3315,13 +2679,7 @@
       "notes": "BACnet currency slot 2; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "107",
@@ -3346,13 +2704,7 @@
       "notes": "BACnet currency slot 3; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "108",
@@ -3377,13 +2729,7 @@
       "notes": "BACnet currency slot 4; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "109",
@@ -3408,13 +2754,7 @@
       "notes": "BACnet currency slot 5; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "110",
@@ -3439,13 +2779,7 @@
       "notes": "BACnet currency slot 6; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "111",
@@ -3470,13 +2804,7 @@
       "notes": "BACnet currency slot 7; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "112",
@@ -3501,13 +2829,7 @@
       "notes": "BACnet currency slot 8; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "113",
@@ -3532,13 +2854,7 @@
       "notes": "BACnet currency slot 9; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "114",
@@ -3563,13 +2879,7 @@
       "notes": "BACnet currency slot 10; meaning is locally configured by the site.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "115",
@@ -3594,13 +2904,7 @@
       "notes": "Imperial area unit; 1 in² = 6.4516 cm² = 0.00064516 m².",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "116",
@@ -3625,13 +2929,7 @@
       "notes": "Metric subdivision of m²; 1 m² = 10 000 cm².",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "117",
@@ -3656,13 +2954,7 @@
       "notes": "Specific enthalpy of a fluid (per unit mass).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "118",
@@ -3687,13 +2979,7 @@
       "notes": "1 cm = 0.01 m = 10 mm.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "119",
@@ -3718,13 +3004,7 @@
       "notes": "Imperial mass flow.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "120",
@@ -3749,13 +3029,7 @@
       "notes": "Temperature *difference*, not absolute; 1 Δ°F = 5/9 ΔK.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "121",
@@ -3780,13 +3054,7 @@
       "notes": "Temperature *difference*; numerically equal to Δ°C.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "122",
@@ -3811,13 +3079,7 @@
       "notes": "1 kΩ = 1 000 Ω.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "123",
@@ -3842,13 +3104,7 @@
       "notes": "1 MΩ = 1 000 000 Ω; insulation-resistance range.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "124",
@@ -3873,13 +3129,7 @@
       "notes": "1 mV = 0.001 V; thermocouple and sensor signal range.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "125",
@@ -3904,13 +3154,7 @@
       "notes": "Specific energy / specific heat content (per unit mass).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "126",
@@ -3935,13 +3179,7 @@
       "notes": "1 MJ = 1 000 000 J = 0.2778 kWh.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "127",
@@ -3966,13 +3204,7 @@
       "notes": "Heat capacity; 1 J/K is small (typical building values are MJ/K).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "128",
@@ -3997,13 +3229,7 @@
       "notes": "Specific heat capacity; water ≈ 4 186 J/(kg·K).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "129",
@@ -4028,13 +3254,7 @@
       "notes": "1 kHz = 1 000 Hz.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "130",
@@ -4059,13 +3279,7 @@
       "notes": "1 MHz = 1 000 000 Hz.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "131",
@@ -4090,13 +3304,7 @@
       "notes": "Generic per-hour rate (events, pulses, transitions).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "132",
@@ -4121,13 +3329,7 @@
       "notes": "1 mW = 0.001 W.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "133",
@@ -4152,13 +3354,7 @@
       "notes": "1 hPa = 100 Pa = 1 mbar; standard barometric-pressure unit.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "134",
@@ -4183,13 +3379,7 @@
       "notes": "1 mbar = 100 Pa = 1 hPa.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "135",
@@ -4214,13 +3404,7 @@
       "notes": "1 m³/h = 1/3600 m³/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "136",
@@ -4245,13 +3429,7 @@
       "notes": "1 L/h = 1/3600 L/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "137",
@@ -4276,13 +3454,7 @@
       "notes": "Energy use intensity; cumulative energy normalized by floor area.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "138",
@@ -4307,13 +3479,7 @@
       "notes": "Energy use intensity (imperial floor area).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "139",
@@ -4338,13 +3504,7 @@
       "notes": "Energy use intensity (SI energy, SI floor area).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "140",
@@ -4369,13 +3529,7 @@
       "notes": "Energy use intensity (SI energy, imperial floor area).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "141",
@@ -4400,13 +3554,7 @@
       "notes": "Overall heat-transfer coefficient (U-value).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "142",
@@ -4431,13 +3579,7 @@
       "notes": "1 ft³/s ≈ 0.028317 m³/s = 60 CFM.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "143",
@@ -4462,13 +3604,7 @@
       "notes": "Smoke obscuration per foot of beam path; smoke-detector sensitivity.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "144",
@@ -4493,13 +3629,7 @@
       "notes": "Smoke obscuration per metre of beam path; smoke-detector sensitivity.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "145",
@@ -4524,13 +3654,7 @@
       "notes": "1 mΩ = 0.001 Ω; shunt-resistor and contact-resistance range.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "146",
@@ -4555,13 +3679,7 @@
       "notes": "1 MWh = 1 000 kWh.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "147",
@@ -4586,13 +3704,7 @@
       "notes": "1 kBTU = 1 000 BTU.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "148",
@@ -4617,13 +3729,7 @@
       "notes": "1 MBTU = 1 000 000 BTU = 1 000 kBTU (≠ MMBTU in US gas industry).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "149",
@@ -4648,13 +3754,7 @@
       "notes": "1 kJ/kg = 1 000 J/kg, dry-air basis.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "150",
@@ -4679,13 +3779,7 @@
       "notes": "1 MJ/kg = 1 000 000 J/kg, dry-air basis.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "151",
@@ -4710,13 +3804,7 @@
       "notes": "1 kJ/K = 1 000 J/K.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "152",
@@ -4741,13 +3829,7 @@
       "notes": "1 MJ/K = 1 000 000 J/K; building-mass thermal capacitance.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "153",
@@ -4772,13 +3854,7 @@
       "notes": "SI unit of force; 1 N = 1 kg·m/s².",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "154",
@@ -4803,13 +3879,7 @@
       "notes": "1 g/s = 0.001 kg/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "155",
@@ -4834,13 +3904,7 @@
       "notes": "1 g/min = 1/60 g/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "156",
@@ -4865,13 +3929,7 @@
       "notes": "Metric tonnes per hour (1 t = 1 000 kg).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "157",
@@ -4896,13 +3954,7 @@
       "notes": "1 kBTU/h = 1 000 BTU/h ≈ 293.07 W.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "158",
@@ -4927,13 +3979,7 @@
       "notes": "1 cs = 0.01 s; legacy timing resolution.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "159",
@@ -4958,13 +4004,7 @@
       "notes": "1 ms = 0.001 s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "160",
@@ -4989,13 +4029,7 @@
       "notes": "Torque; 1 N·m ≈ 0.7376 lbf·ft.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "161",
@@ -5020,13 +4054,7 @@
       "notes": "1 mm/s = 0.001 m/s; used for vibration severity.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "162",
@@ -5051,13 +4079,7 @@
       "notes": "1 mm/min = 1/60 mm/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "163",
@@ -5082,13 +4104,7 @@
       "notes": "1 m/min = 1/60 m/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "164",
@@ -5113,13 +4129,7 @@
       "notes": "1 m/h = 1/3600 m/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "165",
@@ -5144,13 +4154,7 @@
       "notes": "1 m³/min = 1/60 m³/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "166",
@@ -5175,13 +4179,7 @@
       "notes": "Acceleration; standard gravity g ≈ 9.80665 m/s².",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "167",
@@ -5206,13 +4204,7 @@
       "notes": "Magnetic field strength H; Ampère-turns per meter.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "168",
@@ -5237,13 +4229,7 @@
       "notes": "Current density J = I/A.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "169",
@@ -5268,13 +4254,7 @@
       "notes": "Magnetic dipole moment.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "170",
@@ -5299,13 +4279,7 @@
       "notes": "SI unit of capacitance; 1 F = 1 C/V (typically µF or nF in practice).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "171",
@@ -5330,13 +4304,7 @@
       "notes": "SI unit of inductance; 1 H = 1 V·s/A.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "172",
@@ -5361,13 +4329,7 @@
       "notes": "Bulk resistivity of a material.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "173",
@@ -5392,13 +4354,7 @@
       "notes": "SI unit of conductance, the reciprocal of the ohm (1 S = 1/Ω).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "174",
@@ -5423,13 +4379,7 @@
       "notes": "Bulk electrical conductivity; reciprocal of resistivity.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "175",
@@ -5454,13 +4404,7 @@
       "notes": "SI unit of magnetic flux density; 1 T = 1 Wb/m² = 10 000 G.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "176",
@@ -5485,13 +4429,7 @@
       "notes": "Thermoelectric (Seebeck) coefficient.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "177",
@@ -5516,13 +4454,7 @@
       "notes": "Electric field strength E.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "178",
@@ -5547,13 +4479,7 @@
       "notes": "SI unit of magnetic flux; 1 Wb = 1 V·s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "179",
@@ -5578,13 +4504,7 @@
       "notes": "SI base unit of luminous intensity.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "180",
@@ -5609,13 +4529,7 @@
       "notes": "Luminance; perceived brightness of a surface.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "181",
@@ -5640,13 +4554,7 @@
       "notes": "Rate of temperature change.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "182",
@@ -5671,13 +4579,7 @@
       "notes": "Rate of temperature change (1 K/min = 60 K/h).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "183",
@@ -5702,13 +4604,7 @@
       "notes": "Action / angular-momentum unit.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "184",
@@ -5733,13 +4629,7 @@
       "notes": "Angular velocity; 1 rad/s ≈ 9.5493 rpm.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "185",
@@ -5764,13 +4654,7 @@
       "notes": "Compliance: inverse of stiffness.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "186",
@@ -5795,13 +4679,7 @@
       "notes": "Mass density; pure water ≈ 1 000 kg/m³.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "187",
@@ -5826,13 +4704,7 @@
       "notes": "Linear momentum / impulse.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "188",
@@ -5857,13 +4729,7 @@
       "notes": "Surface tension or linear stiffness.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "189",
@@ -5888,13 +4754,7 @@
       "notes": "Thermal conductivity (k-value).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "190",
@@ -5919,13 +4779,7 @@
       "notes": "1 µS = 1e-6 S; typical range for ultrapure water conductivity.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "191",
@@ -5950,13 +4804,7 @@
       "notes": "1 ft³/h ≈ 7.866e-6 m³/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "192",
@@ -5981,13 +4829,7 @@
       "notes": "US gallons per hour (≠ imperial).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "193",
@@ -6012,13 +4854,7 @@
       "notes": "1 km = 1 000 m.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "194",
@@ -6043,13 +4879,7 @@
       "notes": "1 µm = 1e-6 m; particulate-matter sizing range.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "195",
@@ -6074,13 +4904,7 @@
       "notes": "1 g = 0.001 kg.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "196",
@@ -6105,13 +4929,7 @@
       "notes": "1 mg = 1e-6 kg = 0.001 g.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "197",
@@ -6136,13 +4954,7 @@
       "notes": "1 mL = 0.001 L = 1 cm³.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "198",
@@ -6167,13 +4979,7 @@
       "notes": "1 mL/s = 1e-6 m³/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "199",
@@ -6198,13 +5004,7 @@
       "notes": "Logarithmic ratio: 10·log₁₀(P₁/P₂) for power, 20·log₁₀ for amplitude.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "200",
@@ -6229,13 +5029,7 @@
       "notes": "Voltage level relative to 1 mV: 20·log₁₀(V/1 mV).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "201",
@@ -6260,13 +5054,7 @@
       "notes": "Voltage level relative to 1 V: 20·log₁₀(V/1 V).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "202",
@@ -6291,13 +5079,7 @@
       "notes": "1 mS = 0.001 S; common range for water/solution conductivity.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "203",
@@ -6322,13 +5104,7 @@
       "notes": "Reactive energy accumulator (volt-ampere-hours-reactive).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "204",
@@ -6353,13 +5129,7 @@
       "notes": "1 kvarh = 1 000 varh.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "205",
@@ -6384,13 +5154,7 @@
       "notes": "1 Mvarh = 1 000 000 varh.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "206",
@@ -6415,13 +5179,7 @@
       "notes": "1 mmH₂O ≈ 9.80665 Pa.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "207",
@@ -6446,13 +5204,7 @@
       "notes": "1 ‰ = 1/1000 = 0.1 %.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "208",
@@ -6477,13 +5229,7 @@
       "notes": "Dimensionless mass ratio; equivalent to a pure number.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "209",
@@ -6508,13 +5254,7 @@
       "notes": "Dimensionless mass ratio; equivalent to a pure number.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "210",
@@ -6539,13 +5279,7 @@
       "notes": "1 g/kg = 1 000 ppm by mass.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "211",
@@ -6570,13 +5304,7 @@
       "notes": "1 mg/g = 1 000 ppm by mass.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "212",
@@ -6601,13 +5329,7 @@
       "notes": "1 mg/kg = 1 ppm by mass.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "213",
@@ -6632,13 +5354,7 @@
       "notes": "1 g/mL = 1 000 kg/m³.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "214",
@@ -6663,13 +5379,7 @@
       "notes": "Mass concentration; 1 g/L = 1 kg/m³.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "215",
@@ -6694,13 +5404,7 @@
       "notes": "1 mg/L ≈ 1 ppm in dilute aqueous solutions.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "216",
@@ -6725,13 +5429,7 @@
       "notes": "1 µg/L ≈ 1 ppb in dilute aqueous solutions.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "217",
@@ -6756,13 +5454,7 @@
       "notes": "Gas / aerosol mass concentration.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "218",
@@ -6787,13 +5479,7 @@
       "notes": "1 mg/m³ = 0.001 g/m³; common air-quality unit.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "219",
@@ -6818,13 +5504,7 @@
       "notes": "1 µg/m³; PM2.5 / PM10 reporting unit.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "220",
@@ -6849,13 +5529,7 @@
       "notes": "1 ng/m³ = 1e-9 g/m³; ultra-trace contaminant concentration.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "221",
@@ -6880,13 +5554,7 @@
       "notes": "1 g/cm³ = 1 000 kg/m³.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "222",
@@ -6911,13 +5579,7 @@
       "notes": "SI unit of activity: 1 Bq = 1 decay/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "223",
@@ -6942,13 +5604,7 @@
       "notes": "1 kBq = 1 000 Bq.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "224",
@@ -6973,13 +5629,7 @@
       "notes": "1 MBq = 1 000 000 Bq.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "225",
@@ -7004,13 +5654,7 @@
       "notes": "Absorbed dose; 1 Gy = 1 J/kg.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "226",
@@ -7035,13 +5679,7 @@
       "notes": "1 mGy = 0.001 Gy.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "227",
@@ -7066,13 +5704,7 @@
       "notes": "1 µGy = 1e-6 Gy.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "228",
@@ -7097,13 +5729,7 @@
       "notes": "Equivalent dose; 1 Sv = 1 J/kg weighted by radiation type.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "229",
@@ -7128,13 +5754,7 @@
       "notes": "1 mSv = 0.001 Sv.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "230",
@@ -7159,13 +5779,7 @@
       "notes": "1 µSv = 1e-6 Sv.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "231",
@@ -7190,13 +5804,7 @@
       "notes": "Equivalent dose rate.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "232",
@@ -7221,13 +5829,7 @@
       "notes": "A-weighting approximates human ear response (≈ 1 kHz centred).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "233",
@@ -7252,13 +5854,7 @@
       "notes": "Optical turbidity; calibration matters for cross-instrument comparability.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "234",
@@ -7283,13 +5879,7 @@
       "notes": "Logarithmic acidity scale 0..14; 7 is neutral.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "235",
@@ -7314,13 +5904,7 @@
       "notes": "Areal mass density (basis weight).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "236",
@@ -7345,13 +5929,7 @@
       "notes": "Inverse of K/min; useful for time-constant style metrics.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "237",
@@ -7376,13 +5954,7 @@
       "notes": "Geometric ratio (area per unit length).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "238",
@@ -7407,13 +5979,7 @@
       "notes": "Electric charge; 1 A·s = 1 C.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "239",
@@ -7438,13 +6004,7 @@
       "notes": "Apparent energy = ∫ S dt.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "240",
@@ -7469,13 +6029,7 @@
       "notes": "1 kVAh = 1 000 VAh.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "241",
@@ -7500,13 +6054,7 @@
       "notes": "1 MVAh = 1 000 000 VAh.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "242",
@@ -7531,13 +6079,7 @@
       "notes": "Reactive energy in volt-ampere-hours-reactive.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "243",
@@ -7562,13 +6104,7 @@
       "notes": "1 kvarh = 1 000 varh (reactive).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "244",
@@ -7593,13 +6129,7 @@
       "notes": "1 Mvarh = 1 000 000 varh (reactive).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "245",
@@ -7624,13 +6154,7 @@
       "notes": "V²h: integral of voltage squared over time; used in power-quality metering.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "246",
@@ -7655,13 +6179,7 @@
       "notes": "A²h: integral of current squared over time; used in I²t/thermal modelling.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "247",
@@ -7686,13 +6204,7 @@
       "notes": "Energy delivery rate expressed in J/h (1 J/h ≈ 0.2778 mW).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "248",
@@ -7717,13 +6229,7 @@
       "notes": "Imperial daily flow (1 ft³/d ≈ 3.277e-7 m³/s).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "249",
@@ -7748,13 +6254,7 @@
       "notes": "Metric daily flow (1 m³/d = 1/86400 m³/s).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "250",
@@ -7779,13 +6279,7 @@
       "notes": "Energy density per volume of fluid (e.g., specific energy of fuel).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "251",
@@ -7810,13 +6304,7 @@
       "notes": "Energy density per volume; 1 Wh/m³ = 3 600 J/m³.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "252",
@@ -7841,13 +6329,7 @@
       "notes": "Mole fraction expressed as a percent.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "253",
@@ -7872,13 +6354,7 @@
       "notes": "Dynamic viscosity; 1 Pa·s = 10 P (poise) = 1 000 cP.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "254",
@@ -7903,13 +6379,7 @@
       "notes": "Standard conditions per BACnet; convert to actual conditions before integrating.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "47808",
@@ -7934,13 +6404,7 @@
       "notes": "SCFD: gas flow at standard reference conditions; not actual flow.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "47809",
@@ -7965,13 +6429,7 @@
       "notes": "Million SCFD; report at the standard reference conditions defined by the source.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "47810",
@@ -7996,13 +6454,7 @@
       "notes": "Thousand cubic feet per day at flowing conditions.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "47811",
@@ -8027,13 +6479,7 @@
       "notes": "Thousand SCFD at standard conditions.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "47812",
@@ -8058,13 +6504,7 @@
       "notes": "Imperial mass flow per day; 1 lb/d ≈ 0.000005 kg/s.",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "47814",
@@ -8089,13 +6529,7 @@
       "notes": "1 mrem = 0.01 mSv (legacy US dose unit).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     },
     {
       "metric_id": "47815",
@@ -8120,13 +6554,7 @@
       "notes": "1 mrem/h = 0.01 mSv/h (legacy US dose-rate unit).",
       "sparkplug_data_type": "Float",
       "sparkplug_data_type_value": 9,
-      "permission": "read-write",
-      "bacnet_object_types": [
-        "Analog Input",
-        "Analog Output",
-        "Analog Value"
-      ],
-      "bacnet_property": "Present_Value"
+      "permission": "read-write"
     }
   ]
 }

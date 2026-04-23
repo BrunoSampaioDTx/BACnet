@@ -26,9 +26,12 @@ tooling.
 | `data_type`, `encoding`, `size_bits`, `size_bytes` | Wire encoding of the carried value. |
 | `value_min`, `value_max`, `resolution`, `step` | Range and smallest meaningful increment of the carried `REAL` value (`step` is IEEE 754 single-precision epsilon at value 1.0, ≈ `1.1920929e-07`). |
 | `sparkplug_data_type` / `sparkplug_data_type_value` | Sparkplug B mapping. |
-| `bacnet_object_types`, `bacnet_property` | Where the metric is typically reported. |
 | `permission` | Access mode of `Present_Value`. `read-write` because Analog Output `Present_Value` is commandable and Analog Value `Present_Value` is writable when commandable; Analog Input `Present_Value` is also writable while `Out_Of_Service` is `TRUE`. |
 | `notes` | Short per-metric remark (typical conversion factor, BACnet-specific caveat, or usage hint). |
+
+Every entry refers to the `Present_Value` property of the analog BACnet
+objects (`Analog Input`, `Analog Output`, `Analog Value`); that mapping is
+implicit and therefore not repeated per entry.
 
 Reserved and proprietary range markers from the enumeration are omitted —
 only standardized metrics are listed.
