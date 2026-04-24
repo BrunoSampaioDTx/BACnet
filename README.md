@@ -16,7 +16,7 @@ tooling.
 
 | Field | Description |
 | --- | --- |
-| `metric_id` / `metric_number` | BACnet engineering-unit enumeration value (string and integer forms). |
+| `metric_number` | BACnet engineering-unit enumeration value (integer). |
 | `name` | Canonical hyphenated BACnet unit name (e.g. `degrees-celsius`). |
 | `enum_name` | C-style enum identifier (e.g. `UNITS_DEGREES_CELSIUS`). |
 | `display_name` | Human-friendly label. |

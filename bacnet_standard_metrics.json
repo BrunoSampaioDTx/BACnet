@@ -7,7 +7,6 @@
   "count": 262,
   "metrics": [
     {
-      "metric_id": "0",
       "metric_number": 0,
       "name": "square-meters",
       "enum_name": "UNITS_SQUARE_METERS",
@@ -32,7 +31,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "1",
       "metric_number": 1,
       "name": "square-feet",
       "enum_name": "UNITS_SQUARE_FEET",
@@ -57,7 +55,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "2",
       "metric_number": 2,
       "name": "milliamperes",
       "enum_name": "UNITS_MILLIAMPERES",
@@ -82,7 +79,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "3",
       "metric_number": 3,
       "name": "amperes",
       "enum_name": "UNITS_AMPERES",
@@ -107,7 +103,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "4",
       "metric_number": 4,
       "name": "ohms",
       "enum_name": "UNITS_OHMS",
@@ -132,7 +127,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "5",
       "metric_number": 5,
       "name": "volts",
       "enum_name": "UNITS_VOLTS",
@@ -157,7 +151,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "6",
       "metric_number": 6,
       "name": "kilovolts",
       "enum_name": "UNITS_KILOVOLTS",
@@ -182,7 +175,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "7",
       "metric_number": 7,
       "name": "megavolts",
       "enum_name": "UNITS_MEGAVOLTS",
@@ -207,7 +199,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "8",
       "metric_number": 8,
       "name": "volt-amperes",
       "enum_name": "UNITS_VOLT_AMPERES",
@@ -232,7 +223,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "9",
       "metric_number": 9,
       "name": "kilovolt-amperes",
       "enum_name": "UNITS_KILOVOLT_AMPERES",
@@ -257,7 +247,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "10",
       "metric_number": 10,
       "name": "megavolt-amperes",
       "enum_name": "UNITS_MEGAVOLT_AMPERES",
@@ -282,7 +271,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "11",
       "metric_number": 11,
       "name": "volt-amperes-reactive",
       "enum_name": "UNITS_VOLT_AMPERES_REACTIVE",
@@ -307,7 +295,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "12",
       "metric_number": 12,
       "name": "kilovolt-amperes-reactive",
       "enum_name": "UNITS_KILOVOLT_AMPERES_REACTIVE",
@@ -332,7 +319,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "13",
       "metric_number": 13,
       "name": "megavolt-amperes-reactive",
       "enum_name": "UNITS_MEGAVOLT_AMPERES_REACTIVE",
@@ -357,7 +343,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "14",
       "metric_number": 14,
       "name": "degrees-phase",
       "enum_name": "UNITS_DEGREES_PHASE",
@@ -382,7 +367,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "15",
       "metric_number": 15,
       "name": "power-factor",
       "enum_name": "UNITS_POWER_FACTOR",
@@ -407,7 +391,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "16",
       "metric_number": 16,
       "name": "joules",
       "enum_name": "UNITS_JOULES",
@@ -432,7 +415,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "17",
       "metric_number": 17,
       "name": "kilojoules",
       "enum_name": "UNITS_KILOJOULES",
@@ -457,7 +439,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "18",
       "metric_number": 18,
       "name": "watt-hours",
       "enum_name": "UNITS_WATT_HOURS",
@@ -482,7 +463,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "19",
       "metric_number": 19,
       "name": "kilowatt-hours",
       "enum_name": "UNITS_KILOWATT_HOURS",
@@ -507,7 +487,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "20",
       "metric_number": 20,
       "name": "btus",
       "enum_name": "UNITS_BTUS",
@@ -532,7 +511,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "21",
       "metric_number": 21,
       "name": "therms",
       "enum_name": "UNITS_THERMS",
@@ -557,7 +535,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "22",
       "metric_number": 22,
       "name": "ton-hours",
       "enum_name": "UNITS_TON_HOURS",
@@ -582,7 +559,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "23",
       "metric_number": 23,
       "name": "joules-per-kilogram-dry-air",
       "enum_name": "UNITS_JOULES_PER_KILOGRAM_DRY_AIR",
@@ -607,7 +583,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "24",
       "metric_number": 24,
       "name": "btus-per-pound-dry-air",
       "enum_name": "UNITS_BTUS_PER_POUND_DRY_AIR",
@@ -632,7 +607,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "25",
       "metric_number": 25,
       "name": "cycles-per-hour",
       "enum_name": "UNITS_CYCLES_PER_HOUR",
@@ -657,7 +631,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "26",
       "metric_number": 26,
       "name": "cycles-per-minute",
       "enum_name": "UNITS_CYCLES_PER_MINUTE",
@@ -682,7 +655,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "27",
       "metric_number": 27,
       "name": "hertz",
       "enum_name": "UNITS_HERTZ",
@@ -707,7 +679,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "28",
       "metric_number": 28,
       "name": "grams-of-water-per-kilogram-dry-air",
       "enum_name": "UNITS_GRAMS_OF_WATER_PER_KILOGRAM_DRY_AIR",
@@ -732,7 +703,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "29",
       "metric_number": 29,
       "name": "percent-relative-humidity",
       "enum_name": "UNITS_PERCENT_RELATIVE_HUMIDITY",
@@ -757,7 +727,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "30",
       "metric_number": 30,
       "name": "millimeters",
       "enum_name": "UNITS_MILLIMETERS",
@@ -782,7 +751,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "31",
       "metric_number": 31,
       "name": "meters",
       "enum_name": "UNITS_METERS",
@@ -807,7 +775,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "32",
       "metric_number": 32,
       "name": "inches",
       "enum_name": "UNITS_INCHES",
@@ -832,7 +799,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "33",
       "metric_number": 33,
       "name": "feet",
       "enum_name": "UNITS_FEET",
@@ -857,7 +823,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "34",
       "metric_number": 34,
       "name": "watts-per-square-foot",
       "enum_name": "UNITS_WATTS_PER_SQUARE_FOOT",
@@ -882,7 +847,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "35",
       "metric_number": 35,
       "name": "watts-per-square-meter",
       "enum_name": "UNITS_WATTS_PER_SQUARE_METER",
@@ -907,7 +871,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "36",
       "metric_number": 36,
       "name": "lumens",
       "enum_name": "UNITS_LUMENS",
@@ -932,7 +895,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "37",
       "metric_number": 37,
       "name": "luxes",
       "enum_name": "UNITS_LUXES",
@@ -957,7 +919,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "38",
       "metric_number": 38,
       "name": "foot-candles",
       "enum_name": "UNITS_FOOT_CANDLES",
@@ -982,7 +943,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "39",
       "metric_number": 39,
       "name": "kilograms",
       "enum_name": "UNITS_KILOGRAMS",
@@ -1007,7 +967,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "40",
       "metric_number": 40,
       "name": "pounds-mass",
       "enum_name": "UNITS_POUNDS_MASS",
@@ -1032,7 +991,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "41",
       "metric_number": 41,
       "name": "tons",
       "enum_name": "UNITS_TONS",
@@ -1057,7 +1015,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "42",
       "metric_number": 42,
       "name": "kilograms-per-second",
       "enum_name": "UNITS_KILOGRAMS_PER_SECOND",
@@ -1082,7 +1039,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "43",
       "metric_number": 43,
       "name": "kilograms-per-minute",
       "enum_name": "UNITS_KILOGRAMS_PER_MINUTE",
@@ -1107,7 +1063,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "44",
       "metric_number": 44,
       "name": "kilograms-per-hour",
       "enum_name": "UNITS_KILOGRAMS_PER_HOUR",
@@ -1132,7 +1087,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "45",
       "metric_number": 45,
       "name": "pounds-mass-per-minute",
       "enum_name": "UNITS_POUNDS_MASS_PER_MINUTE",
@@ -1157,7 +1111,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "46",
       "metric_number": 46,
       "name": "pounds-mass-per-hour",
       "enum_name": "UNITS_POUNDS_MASS_PER_HOUR",
@@ -1182,7 +1135,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "47",
       "metric_number": 47,
       "name": "watts",
       "enum_name": "UNITS_WATTS",
@@ -1207,7 +1159,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "48",
       "metric_number": 48,
       "name": "kilowatts",
       "enum_name": "UNITS_KILOWATTS",
@@ -1232,7 +1183,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "49",
       "metric_number": 49,
       "name": "megawatts",
       "enum_name": "UNITS_MEGAWATTS",
@@ -1257,7 +1207,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "50",
       "metric_number": 50,
       "name": "btus-per-hour",
       "enum_name": "UNITS_BTUS_PER_HOUR",
@@ -1282,7 +1231,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "51",
       "metric_number": 51,
       "name": "horsepower",
       "enum_name": "UNITS_HORSEPOWER",
@@ -1307,7 +1255,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "52",
       "metric_number": 52,
       "name": "tons-refrigeration",
       "enum_name": "UNITS_TONS_REFRIGERATION",
@@ -1332,7 +1279,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "53",
       "metric_number": 53,
       "name": "pascals",
       "enum_name": "UNITS_PASCALS",
@@ -1357,7 +1303,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "54",
       "metric_number": 54,
       "name": "kilopascals",
       "enum_name": "UNITS_KILOPASCALS",
@@ -1382,7 +1327,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "55",
       "metric_number": 55,
       "name": "bars",
       "enum_name": "UNITS_BARS",
@@ -1407,7 +1351,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "56",
       "metric_number": 56,
       "name": "pounds-force-per-square-inch",
       "enum_name": "UNITS_POUNDS_FORCE_PER_SQUARE_INCH",
@@ -1432,7 +1375,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "57",
       "metric_number": 57,
       "name": "centimeters-of-water",
       "enum_name": "UNITS_CENTIMETERS_OF_WATER",
@@ -1457,7 +1399,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "58",
       "metric_number": 58,
       "name": "inches-of-water",
       "enum_name": "UNITS_INCHES_OF_WATER",
@@ -1482,7 +1423,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "59",
       "metric_number": 59,
       "name": "millimeters-of-mercury",
       "enum_name": "UNITS_MILLIMETERS_OF_MERCURY",
@@ -1507,7 +1447,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "60",
       "metric_number": 60,
       "name": "centimeters-of-mercury",
       "enum_name": "UNITS_CENTIMETERS_OF_MERCURY",
@@ -1532,7 +1471,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "61",
       "metric_number": 61,
       "name": "inches-of-mercury",
       "enum_name": "UNITS_INCHES_OF_MERCURY",
@@ -1557,7 +1495,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "62",
       "metric_number": 62,
       "name": "degrees-celsius",
       "enum_name": "UNITS_DEGREES_CELSIUS",
@@ -1582,7 +1519,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "63",
       "metric_number": 63,
       "name": "degrees-kelvin",
       "enum_name": "UNITS_DEGREES_KELVIN",
@@ -1607,7 +1543,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "64",
       "metric_number": 64,
       "name": "degrees-fahrenheit",
       "enum_name": "UNITS_DEGREES_FAHRENHEIT",
@@ -1632,7 +1567,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "65",
       "metric_number": 65,
       "name": "degree-days-celsius",
       "enum_name": "UNITS_DEGREE_DAYS_CELSIUS",
@@ -1657,7 +1591,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "66",
       "metric_number": 66,
       "name": "degree-days-fahrenheit",
       "enum_name": "UNITS_DEGREE_DAYS_FAHRENHEIT",
@@ -1682,7 +1615,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "67",
       "metric_number": 67,
       "name": "years",
       "enum_name": "UNITS_YEARS",
@@ -1707,7 +1639,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "68",
       "metric_number": 68,
       "name": "months",
       "enum_name": "UNITS_MONTHS",
@@ -1732,7 +1663,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "69",
       "metric_number": 69,
       "name": "weeks",
       "enum_name": "UNITS_WEEKS",
@@ -1757,7 +1687,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "70",
       "metric_number": 70,
       "name": "days",
       "enum_name": "UNITS_DAYS",
@@ -1782,7 +1711,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "71",
       "metric_number": 71,
       "name": "hours",
       "enum_name": "UNITS_HOURS",
@@ -1807,7 +1735,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "72",
       "metric_number": 72,
       "name": "minutes",
       "enum_name": "UNITS_MINUTES",
@@ -1832,7 +1759,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "73",
       "metric_number": 73,
       "name": "seconds",
       "enum_name": "UNITS_SECONDS",
@@ -1857,7 +1783,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "74",
       "metric_number": 74,
       "name": "meters-per-second",
       "enum_name": "UNITS_METERS_PER_SECOND",
@@ -1882,7 +1807,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "75",
       "metric_number": 75,
       "name": "kilometers-per-hour",
       "enum_name": "UNITS_KILOMETERS_PER_HOUR",
@@ -1907,7 +1831,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "76",
       "metric_number": 76,
       "name": "feet-per-second",
       "enum_name": "UNITS_FEET_PER_SECOND",
@@ -1932,7 +1855,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "77",
       "metric_number": 77,
       "name": "feet-per-minute",
       "enum_name": "UNITS_FEET_PER_MINUTE",
@@ -1957,7 +1879,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "78",
       "metric_number": 78,
       "name": "miles-per-hour",
       "enum_name": "UNITS_MILES_PER_HOUR",
@@ -1982,7 +1903,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "79",
       "metric_number": 79,
       "name": "cubic-feet",
       "enum_name": "UNITS_CUBIC_FEET",
@@ -2007,7 +1927,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "80",
       "metric_number": 80,
       "name": "cubic-meters",
       "enum_name": "UNITS_CUBIC_METERS",
@@ -2032,7 +1951,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "81",
       "metric_number": 81,
       "name": "imperial-gallons",
       "enum_name": "UNITS_IMPERIAL_GALLONS",
@@ -2057,7 +1975,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "82",
       "metric_number": 82,
       "name": "liters",
       "enum_name": "UNITS_LITERS",
@@ -2082,7 +1999,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "83",
       "metric_number": 83,
       "name": "us-gallons",
       "enum_name": "UNITS_US_GALLONS",
@@ -2107,7 +2023,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "84",
       "metric_number": 84,
       "name": "cubic-feet-per-minute",
       "enum_name": "UNITS_CUBIC_FEET_PER_MINUTE",
@@ -2132,7 +2047,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "85",
       "metric_number": 85,
       "name": "cubic-meters-per-second",
       "enum_name": "UNITS_CUBIC_METERS_PER_SECOND",
@@ -2157,7 +2071,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "86",
       "metric_number": 86,
       "name": "imperial-gallons-per-minute",
       "enum_name": "UNITS_IMPERIAL_GALLONS_PER_MINUTE",
@@ -2182,7 +2095,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "87",
       "metric_number": 87,
       "name": "liters-per-second",
       "enum_name": "UNITS_LITERS_PER_SECOND",
@@ -2207,7 +2119,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "88",
       "metric_number": 88,
       "name": "liters-per-minute",
       "enum_name": "UNITS_LITERS_PER_MINUTE",
@@ -2232,7 +2143,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "89",
       "metric_number": 89,
       "name": "us-gallons-per-minute",
       "enum_name": "UNITS_US_GALLONS_PER_MINUTE",
@@ -2257,7 +2167,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "90",
       "metric_number": 90,
       "name": "degrees-angular",
       "enum_name": "UNITS_DEGREES_ANGULAR",
@@ -2282,7 +2191,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "91",
       "metric_number": 91,
       "name": "degrees-celsius-per-hour",
       "enum_name": "UNITS_DEGREES_CELSIUS_PER_HOUR",
@@ -2307,7 +2215,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "92",
       "metric_number": 92,
       "name": "degrees-celsius-per-minute",
       "enum_name": "UNITS_DEGREES_CELSIUS_PER_MINUTE",
@@ -2332,7 +2239,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "93",
       "metric_number": 93,
       "name": "degrees-fahrenheit-per-hour",
       "enum_name": "UNITS_DEGREES_FAHRENHEIT_PER_HOUR",
@@ -2357,7 +2263,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "94",
       "metric_number": 94,
       "name": "degrees-fahrenheit-per-minute",
       "enum_name": "UNITS_DEGREES_FAHRENHEIT_PER_MINUTE",
@@ -2382,7 +2287,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "95",
       "metric_number": 95,
       "name": "no-units",
       "enum_name": "UNITS_NO_UNITS",
@@ -2407,7 +2311,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "96",
       "metric_number": 96,
       "name": "parts-per-million",
       "enum_name": "UNITS_PARTS_PER_MILLION",
@@ -2432,7 +2335,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "97",
       "metric_number": 97,
       "name": "parts-per-billion",
       "enum_name": "UNITS_PARTS_PER_BILLION",
@@ -2457,7 +2359,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "98",
       "metric_number": 98,
       "name": "percent",
       "enum_name": "UNITS_PERCENT",
@@ -2482,7 +2383,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "99",
       "metric_number": 99,
       "name": "percent-per-second",
       "enum_name": "UNITS_PERCENT_PER_SECOND",
@@ -2507,7 +2407,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "100",
       "metric_number": 100,
       "name": "per-minute",
       "enum_name": "UNITS_PER_MINUTE",
@@ -2532,7 +2431,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "101",
       "metric_number": 101,
       "name": "per-second",
       "enum_name": "UNITS_PER_SECOND",
@@ -2557,7 +2455,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "102",
       "metric_number": 102,
       "name": "psi-per-degree-fahrenheit",
       "enum_name": "UNITS_PSI_PER_DEGREE_FAHRENHEIT",
@@ -2582,7 +2479,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "103",
       "metric_number": 103,
       "name": "radians",
       "enum_name": "UNITS_RADIANS",
@@ -2607,7 +2503,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "104",
       "metric_number": 104,
       "name": "revolutions-per-minute",
       "enum_name": "UNITS_REVOLUTIONS_PER_MINUTE",
@@ -2632,7 +2527,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "105",
       "metric_number": 105,
       "name": "currency1",
       "enum_name": "UNITS_CURRENCY1",
@@ -2657,7 +2551,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "106",
       "metric_number": 106,
       "name": "currency2",
       "enum_name": "UNITS_CURRENCY2",
@@ -2682,7 +2575,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "107",
       "metric_number": 107,
       "name": "currency3",
       "enum_name": "UNITS_CURRENCY3",
@@ -2707,7 +2599,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "108",
       "metric_number": 108,
       "name": "currency4",
       "enum_name": "UNITS_CURRENCY4",
@@ -2732,7 +2623,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "109",
       "metric_number": 109,
       "name": "currency5",
       "enum_name": "UNITS_CURRENCY5",
@@ -2757,7 +2647,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "110",
       "metric_number": 110,
       "name": "currency6",
       "enum_name": "UNITS_CURRENCY6",
@@ -2782,7 +2671,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "111",
       "metric_number": 111,
       "name": "currency7",
       "enum_name": "UNITS_CURRENCY7",
@@ -2807,7 +2695,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "112",
       "metric_number": 112,
       "name": "currency8",
       "enum_name": "UNITS_CURRENCY8",
@@ -2832,7 +2719,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "113",
       "metric_number": 113,
       "name": "currency9",
       "enum_name": "UNITS_CURRENCY9",
@@ -2857,7 +2743,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "114",
       "metric_number": 114,
       "name": "currency10",
       "enum_name": "UNITS_CURRENCY10",
@@ -2882,7 +2767,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "115",
       "metric_number": 115,
       "name": "square-inches",
       "enum_name": "UNITS_SQUARE_INCHES",
@@ -2907,7 +2791,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "116",
       "metric_number": 116,
       "name": "square-centimeters",
       "enum_name": "UNITS_SQUARE_CENTIMETERS",
@@ -2932,7 +2815,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "117",
       "metric_number": 117,
       "name": "btus-per-pound",
       "enum_name": "UNITS_BTUS_PER_POUND",
@@ -2957,7 +2839,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "118",
       "metric_number": 118,
       "name": "centimeters",
       "enum_name": "UNITS_CENTIMETERS",
@@ -2982,7 +2863,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "119",
       "metric_number": 119,
       "name": "pounds-mass-per-second",
       "enum_name": "UNITS_POUNDS_MASS_PER_SECOND",
@@ -3007,7 +2887,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "120",
       "metric_number": 120,
       "name": "delta-degrees-fahrenheit",
       "enum_name": "UNITS_DELTA_DEGREES_FAHRENHEIT",
@@ -3032,7 +2911,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "121",
       "metric_number": 121,
       "name": "delta-degrees-kelvin",
       "enum_name": "UNITS_DELTA_DEGREES_KELVIN",
@@ -3057,7 +2935,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "122",
       "metric_number": 122,
       "name": "kilohms",
       "enum_name": "UNITS_KILOHMS",
@@ -3082,7 +2959,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "123",
       "metric_number": 123,
       "name": "megohms",
       "enum_name": "UNITS_MEGOHMS",
@@ -3107,7 +2983,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "124",
       "metric_number": 124,
       "name": "millivolts",
       "enum_name": "UNITS_MILLIVOLTS",
@@ -3132,7 +3007,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "125",
       "metric_number": 125,
       "name": "kilojoules-per-kilogram",
       "enum_name": "UNITS_KILOJOULES_PER_KILOGRAM",
@@ -3157,7 +3031,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "126",
       "metric_number": 126,
       "name": "megajoules",
       "enum_name": "UNITS_MEGAJOULES",
@@ -3182,7 +3055,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "127",
       "metric_number": 127,
       "name": "joules-per-degree-kelvin",
       "enum_name": "UNITS_JOULES_PER_DEGREE_KELVIN",
@@ -3207,7 +3079,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "128",
       "metric_number": 128,
       "name": "joules-per-kilogram-degree-kelvin",
       "enum_name": "UNITS_JOULES_PER_KILOGRAM_DEGREE_KELVIN",
@@ -3232,7 +3103,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "129",
       "metric_number": 129,
       "name": "kilohertz",
       "enum_name": "UNITS_KILOHERTZ",
@@ -3257,7 +3127,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "130",
       "metric_number": 130,
       "name": "megahertz",
       "enum_name": "UNITS_MEGAHERTZ",
@@ -3282,7 +3151,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "131",
       "metric_number": 131,
       "name": "per-hour",
       "enum_name": "UNITS_PER_HOUR",
@@ -3307,7 +3175,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "132",
       "metric_number": 132,
       "name": "milliwatts",
       "enum_name": "UNITS_MILLIWATTS",
@@ -3332,7 +3199,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "133",
       "metric_number": 133,
       "name": "hectopascals",
       "enum_name": "UNITS_HECTOPASCALS",
@@ -3357,7 +3223,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "134",
       "metric_number": 134,
       "name": "millibars",
       "enum_name": "UNITS_MILLIBARS",
@@ -3382,7 +3247,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "135",
       "metric_number": 135,
       "name": "cubic-meters-per-hour",
       "enum_name": "UNITS_CUBIC_METERS_PER_HOUR",
@@ -3407,7 +3271,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "136",
       "metric_number": 136,
       "name": "liters-per-hour",
       "enum_name": "UNITS_LITERS_PER_HOUR",
@@ -3432,7 +3295,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "137",
       "metric_number": 137,
       "name": "kw-hours-per-square-meter",
       "enum_name": "UNITS_KW_HOURS_PER_SQUARE_METER",
@@ -3457,7 +3319,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "138",
       "metric_number": 138,
       "name": "kw-hours-per-square-foot",
       "enum_name": "UNITS_KW_HOURS_PER_SQUARE_FOOT",
@@ -3482,7 +3343,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "139",
       "metric_number": 139,
       "name": "megajoules-per-square-meter",
       "enum_name": "UNITS_MEGAJOULES_PER_SQUARE_METER",
@@ -3507,7 +3367,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "140",
       "metric_number": 140,
       "name": "megajoules-per-square-foot",
       "enum_name": "UNITS_MEGAJOULES_PER_SQUARE_FOOT",
@@ -3532,7 +3391,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "141",
       "metric_number": 141,
       "name": "watts-per-square-meter-degree-kelvin",
       "enum_name": "UNITS_WATTS_PER_SQUARE_METER_DEGREE_KELVIN",
@@ -3557,7 +3415,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "142",
       "metric_number": 142,
       "name": "cubic-feet-per-second",
       "enum_name": "UNITS_CUBIC_FEET_PER_SECOND",
@@ -3582,7 +3439,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "143",
       "metric_number": 143,
       "name": "percent-obscuration-per-foot",
       "enum_name": "UNITS_PERCENT_OBSCURATION_PER_FOOT",
@@ -3607,7 +3463,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "144",
       "metric_number": 144,
       "name": "percent-obscuration-per-meter",
       "enum_name": "UNITS_PERCENT_OBSCURATION_PER_METER",
@@ -3632,7 +3487,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "145",
       "metric_number": 145,
       "name": "milliohms",
       "enum_name": "UNITS_MILLIOHMS",
@@ -3657,7 +3511,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "146",
       "metric_number": 146,
       "name": "megawatt-hours",
       "enum_name": "UNITS_MEGAWATT_HOURS",
@@ -3682,7 +3535,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "147",
       "metric_number": 147,
       "name": "kilo-btus",
       "enum_name": "UNITS_KILO_BTUS",
@@ -3707,7 +3559,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "148",
       "metric_number": 148,
       "name": "mega-btus",
       "enum_name": "UNITS_MEGA_BTUS",
@@ -3732,7 +3583,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "149",
       "metric_number": 149,
       "name": "kilojoules-per-kilogram-dry-air",
       "enum_name": "UNITS_KILOJOULES_PER_KILOGRAM_DRY_AIR",
@@ -3757,7 +3607,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "150",
       "metric_number": 150,
       "name": "megajoules-per-kilogram-dry-air",
       "enum_name": "UNITS_MEGAJOULES_PER_KILOGRAM_DRY_AIR",
@@ -3782,7 +3631,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "151",
       "metric_number": 151,
       "name": "kilojoules-per-degree-kelvin",
       "enum_name": "UNITS_KILOJOULES_PER_DEGREE_KELVIN",
@@ -3807,7 +3655,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "152",
       "metric_number": 152,
       "name": "megajoules-per-degree-kelvin",
       "enum_name": "UNITS_MEGAJOULES_PER_DEGREE_KELVIN",
@@ -3832,7 +3679,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "153",
       "metric_number": 153,
       "name": "newton",
       "enum_name": "UNITS_NEWTON",
@@ -3857,7 +3703,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "154",
       "metric_number": 154,
       "name": "grams-per-second",
       "enum_name": "UNITS_GRAMS_PER_SECOND",
@@ -3882,7 +3727,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "155",
       "metric_number": 155,
       "name": "grams-per-minute",
       "enum_name": "UNITS_GRAMS_PER_MINUTE",
@@ -3907,7 +3751,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "156",
       "metric_number": 156,
       "name": "tons-per-hour",
       "enum_name": "UNITS_TONS_PER_HOUR",
@@ -3932,7 +3775,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "157",
       "metric_number": 157,
       "name": "kilo-btus-per-hour",
       "enum_name": "UNITS_KILO_BTUS_PER_HOUR",
@@ -3957,7 +3799,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "158",
       "metric_number": 158,
       "name": "hundredths-seconds",
       "enum_name": "UNITS_HUNDREDTHS_SECONDS",
@@ -3982,7 +3823,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "159",
       "metric_number": 159,
       "name": "milliseconds",
       "enum_name": "UNITS_MILLISECONDS",
@@ -4007,7 +3847,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "160",
       "metric_number": 160,
       "name": "newton-meters",
       "enum_name": "UNITS_NEWTON_METERS",
@@ -4032,7 +3871,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "161",
       "metric_number": 161,
       "name": "millimeters-per-second",
       "enum_name": "UNITS_MILLIMETERS_PER_SECOND",
@@ -4057,7 +3895,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "162",
       "metric_number": 162,
       "name": "millimeters-per-minute",
       "enum_name": "UNITS_MILLIMETERS_PER_MINUTE",
@@ -4082,7 +3919,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "163",
       "metric_number": 163,
       "name": "meters-per-minute",
       "enum_name": "UNITS_METERS_PER_MINUTE",
@@ -4107,7 +3943,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "164",
       "metric_number": 164,
       "name": "meters-per-hour",
       "enum_name": "UNITS_METERS_PER_HOUR",
@@ -4132,7 +3967,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "165",
       "metric_number": 165,
       "name": "cubic-meters-per-minute",
       "enum_name": "UNITS_CUBIC_METERS_PER_MINUTE",
@@ -4157,7 +3991,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "166",
       "metric_number": 166,
       "name": "meters-per-second-per-second",
       "enum_name": "UNITS_METERS_PER_SECOND_PER_SECOND",
@@ -4182,7 +4015,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "167",
       "metric_number": 167,
       "name": "amperes-per-meter",
       "enum_name": "UNITS_AMPERES_PER_METER",
@@ -4207,7 +4039,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "168",
       "metric_number": 168,
       "name": "amperes-per-square-meter",
       "enum_name": "UNITS_AMPERES_PER_SQUARE_METER",
@@ -4232,7 +4063,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "169",
       "metric_number": 169,
       "name": "ampere-square-meters",
       "enum_name": "UNITS_AMPERE_SQUARE_METERS",
@@ -4257,7 +4087,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "170",
       "metric_number": 170,
       "name": "farads",
       "enum_name": "UNITS_FARADS",
@@ -4282,7 +4111,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "171",
       "metric_number": 171,
       "name": "henrys",
       "enum_name": "UNITS_HENRYS",
@@ -4307,7 +4135,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "172",
       "metric_number": 172,
       "name": "ohm-meters",
       "enum_name": "UNITS_OHM_METERS",
@@ -4332,7 +4159,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "173",
       "metric_number": 173,
       "name": "siemens",
       "enum_name": "UNITS_SIEMENS",
@@ -4357,7 +4183,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "174",
       "metric_number": 174,
       "name": "siemens-per-meter",
       "enum_name": "UNITS_SIEMENS_PER_METER",
@@ -4382,7 +4207,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "175",
       "metric_number": 175,
       "name": "teslas",
       "enum_name": "UNITS_TESLAS",
@@ -4407,7 +4231,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "176",
       "metric_number": 176,
       "name": "volts-per-degree-kelvin",
       "enum_name": "UNITS_VOLTS_PER_DEGREE_KELVIN",
@@ -4432,7 +4255,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "177",
       "metric_number": 177,
       "name": "volts-per-meter",
       "enum_name": "UNITS_VOLTS_PER_METER",
@@ -4457,7 +4279,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "178",
       "metric_number": 178,
       "name": "webers",
       "enum_name": "UNITS_WEBERS",
@@ -4482,7 +4303,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "179",
       "metric_number": 179,
       "name": "candelas",
       "enum_name": "UNITS_CANDELAS",
@@ -4507,7 +4327,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "180",
       "metric_number": 180,
       "name": "candelas-per-square-meter",
       "enum_name": "UNITS_CANDELAS_PER_SQUARE_METER",
@@ -4532,7 +4351,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "181",
       "metric_number": 181,
       "name": "degrees-kelvin-per-hour",
       "enum_name": "UNITS_DEGREES_KELVIN_PER_HOUR",
@@ -4557,7 +4375,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "182",
       "metric_number": 182,
       "name": "degrees-kelvin-per-minute",
       "enum_name": "UNITS_DEGREES_KELVIN_PER_MINUTE",
@@ -4582,7 +4399,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "183",
       "metric_number": 183,
       "name": "joule-seconds",
       "enum_name": "UNITS_JOULE_SECONDS",
@@ -4607,7 +4423,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "184",
       "metric_number": 184,
       "name": "radians-per-second",
       "enum_name": "UNITS_RADIANS_PER_SECOND",
@@ -4632,7 +4447,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "185",
       "metric_number": 185,
       "name": "square-meters-per-newton",
       "enum_name": "UNITS_SQUARE_METERS_PER_NEWTON",
@@ -4657,7 +4471,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "186",
       "metric_number": 186,
       "name": "kilograms-per-cubic-meter",
       "enum_name": "UNITS_KILOGRAMS_PER_CUBIC_METER",
@@ -4682,7 +4495,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "187",
       "metric_number": 187,
       "name": "newton-seconds",
       "enum_name": "UNITS_NEWTON_SECONDS",
@@ -4707,7 +4519,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "188",
       "metric_number": 188,
       "name": "newtons-per-meter",
       "enum_name": "UNITS_NEWTONS_PER_METER",
@@ -4732,7 +4543,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "189",
       "metric_number": 189,
       "name": "watts-per-meter-per-degree-kelvin",
       "enum_name": "UNITS_WATTS_PER_METER_PER_DEGREE_KELVIN",
@@ -4757,7 +4567,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "190",
       "metric_number": 190,
       "name": "microsiemens",
       "enum_name": "UNITS_MICROSIEMENS",
@@ -4782,7 +4591,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "191",
       "metric_number": 191,
       "name": "cubic-feet-per-hour",
       "enum_name": "UNITS_CUBIC_FEET_PER_HOUR",
@@ -4807,7 +4615,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "192",
       "metric_number": 192,
       "name": "us-gallons-per-hour",
       "enum_name": "UNITS_US_GALLONS_PER_HOUR",
@@ -4832,7 +4639,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "193",
       "metric_number": 193,
       "name": "kilometers",
       "enum_name": "UNITS_KILOMETERS",
@@ -4857,7 +4663,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "194",
       "metric_number": 194,
       "name": "micrometers",
       "enum_name": "UNITS_MICROMETERS",
@@ -4882,7 +4687,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "195",
       "metric_number": 195,
       "name": "grams",
       "enum_name": "UNITS_GRAMS",
@@ -4907,7 +4711,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "196",
       "metric_number": 196,
       "name": "milligrams",
       "enum_name": "UNITS_MILLIGRAMS",
@@ -4932,7 +4735,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "197",
       "metric_number": 197,
       "name": "milliliters",
       "enum_name": "UNITS_MILLILITERS",
@@ -4957,7 +4759,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "198",
       "metric_number": 198,
       "name": "milliliters-per-second",
       "enum_name": "UNITS_MILLILITERS_PER_SECOND",
@@ -4982,7 +4783,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "199",
       "metric_number": 199,
       "name": "decibels",
       "enum_name": "UNITS_DECIBELS",
@@ -5007,7 +4807,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "200",
       "metric_number": 200,
       "name": "decibels-millivolt",
       "enum_name": "UNITS_DECIBELS_MILLIVOLT",
@@ -5032,7 +4831,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "201",
       "metric_number": 201,
       "name": "decibels-volt",
       "enum_name": "UNITS_DECIBELS_VOLT",
@@ -5057,7 +4855,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "202",
       "metric_number": 202,
       "name": "millisiemens",
       "enum_name": "UNITS_MILLISIEMENS",
@@ -5082,7 +4879,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "203",
       "metric_number": 203,
       "name": "watt-hours-reactive",
       "enum_name": "UNITS_WATT_HOURS_REACTIVE",
@@ -5107,7 +4903,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "204",
       "metric_number": 204,
       "name": "kilowatt-hours-reactive",
       "enum_name": "UNITS_KILOWATT_HOURS_REACTIVE",
@@ -5132,7 +4927,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "205",
       "metric_number": 205,
       "name": "megawatt-hours-reactive",
       "enum_name": "UNITS_MEGAWATT_HOURS_REACTIVE",
@@ -5157,7 +4951,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "206",
       "metric_number": 206,
       "name": "millimeters-of-water",
       "enum_name": "UNITS_MILLIMETERS_OF_WATER",
@@ -5182,7 +4975,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "207",
       "metric_number": 207,
       "name": "per-mille",
       "enum_name": "UNITS_PER_MILLE",
@@ -5207,7 +4999,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "208",
       "metric_number": 208,
       "name": "grams-per-gram",
       "enum_name": "UNITS_GRAMS_PER_GRAM",
@@ -5232,7 +5023,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "209",
       "metric_number": 209,
       "name": "kilograms-per-kilogram",
       "enum_name": "UNITS_KILOGRAMS_PER_KILOGRAM",
@@ -5257,7 +5047,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "210",
       "metric_number": 210,
       "name": "grams-per-kilogram",
       "enum_name": "UNITS_GRAMS_PER_KILOGRAM",
@@ -5282,7 +5071,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "211",
       "metric_number": 211,
       "name": "milligrams-per-gram",
       "enum_name": "UNITS_MILLIGRAMS_PER_GRAM",
@@ -5307,7 +5095,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "212",
       "metric_number": 212,
       "name": "milligrams-per-kilogram",
       "enum_name": "UNITS_MILLIGRAMS_PER_KILOGRAM",
@@ -5332,7 +5119,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "213",
       "metric_number": 213,
       "name": "grams-per-milliliter",
       "enum_name": "UNITS_GRAMS_PER_MILLILITER",
@@ -5357,7 +5143,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "214",
       "metric_number": 214,
       "name": "grams-per-liter",
       "enum_name": "UNITS_GRAMS_PER_LITER",
@@ -5382,7 +5167,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "215",
       "metric_number": 215,
       "name": "milligrams-per-liter",
       "enum_name": "UNITS_MILLIGRAMS_PER_LITER",
@@ -5407,7 +5191,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "216",
       "metric_number": 216,
       "name": "micrograms-per-liter",
       "enum_name": "UNITS_MICROGRAMS_PER_LITER",
@@ -5432,7 +5215,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "217",
       "metric_number": 217,
       "name": "grams-per-cubic-meter",
       "enum_name": "UNITS_GRAMS_PER_CUBIC_METER",
@@ -5457,7 +5239,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "218",
       "metric_number": 218,
       "name": "milligrams-per-cubic-meter",
       "enum_name": "UNITS_MILLIGRAMS_PER_CUBIC_METER",
@@ -5482,7 +5263,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "219",
       "metric_number": 219,
       "name": "micrograms-per-cubic-meter",
       "enum_name": "UNITS_MICROGRAMS_PER_CUBIC_METER",
@@ -5507,7 +5287,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "220",
       "metric_number": 220,
       "name": "nanograms-per-cubic-meter",
       "enum_name": "UNITS_NANOGRAMS_PER_CUBIC_METER",
@@ -5532,7 +5311,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "221",
       "metric_number": 221,
       "name": "grams-per-cubic-centimeter",
       "enum_name": "UNITS_GRAMS_PER_CUBIC_CENTIMETER",
@@ -5557,7 +5335,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "222",
       "metric_number": 222,
       "name": "becquerels",
       "enum_name": "UNITS_BECQUERELS",
@@ -5582,7 +5359,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "223",
       "metric_number": 223,
       "name": "kilobecquerels",
       "enum_name": "UNITS_KILOBECQUERELS",
@@ -5607,7 +5383,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "224",
       "metric_number": 224,
       "name": "megabecquerels",
       "enum_name": "UNITS_MEGABECQUERELS",
@@ -5632,7 +5407,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "225",
       "metric_number": 225,
       "name": "gray",
       "enum_name": "UNITS_GRAY",
@@ -5657,7 +5431,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "226",
       "metric_number": 226,
       "name": "milligray",
       "enum_name": "UNITS_MILLIGRAY",
@@ -5682,7 +5455,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "227",
       "metric_number": 227,
       "name": "microgray",
       "enum_name": "UNITS_MICROGRAY",
@@ -5707,7 +5479,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "228",
       "metric_number": 228,
       "name": "sieverts",
       "enum_name": "UNITS_SIEVERTS",
@@ -5732,7 +5503,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "229",
       "metric_number": 229,
       "name": "millisieverts",
       "enum_name": "UNITS_MILLISIEVERTS",
@@ -5757,7 +5527,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "230",
       "metric_number": 230,
       "name": "microsieverts",
       "enum_name": "UNITS_MICROSIEVERTS",
@@ -5782,7 +5551,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "231",
       "metric_number": 231,
       "name": "microsieverts-per-hour",
       "enum_name": "UNITS_MICROSIEVERTS_PER_HOUR",
@@ -5807,7 +5575,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "232",
       "metric_number": 232,
       "name": "decibels-a",
       "enum_name": "UNITS_DECIBELS_A",
@@ -5832,7 +5599,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "233",
       "metric_number": 233,
       "name": "nephelometric-turbidity-unit",
       "enum_name": "UNITS_NEPHELOMETRIC_TURBIDITY_UNIT",
@@ -5857,7 +5623,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "234",
       "metric_number": 234,
       "name": "ph",
       "enum_name": "UNITS_PH",
@@ -5882,7 +5647,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "235",
       "metric_number": 235,
       "name": "grams-per-square-meter",
       "enum_name": "UNITS_GRAMS_PER_SQUARE_METER",
@@ -5907,7 +5671,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "236",
       "metric_number": 236,
       "name": "minutes-per-degree-kelvin",
       "enum_name": "UNITS_MINUTES_PER_DEGREE_KELVIN",
@@ -5932,7 +5695,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "237",
       "metric_number": 237,
       "name": "meter-squared-per-meter",
       "enum_name": "UNITS_METER_SQUARED_PER_METER",
@@ -5957,7 +5719,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "238",
       "metric_number": 238,
       "name": "ampere-seconds",
       "enum_name": "UNITS_AMPERE_SECONDS",
@@ -5982,7 +5743,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "239",
       "metric_number": 239,
       "name": "volt-ampere-hours",
       "enum_name": "UNITS_VOLT_AMPERE_HOURS",
@@ -6007,7 +5767,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "240",
       "metric_number": 240,
       "name": "kilovolt-ampere-hours",
       "enum_name": "UNITS_KILOVOLT_AMPERE_HOURS",
@@ -6032,7 +5791,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "241",
       "metric_number": 241,
       "name": "megavolt-ampere-hours",
       "enum_name": "UNITS_MEGAVOLT_AMPERE_HOURS",
@@ -6057,7 +5815,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "242",
       "metric_number": 242,
       "name": "volt-ampere-hours-reactive",
       "enum_name": "UNITS_VOLT_AMPERE_HOURS_REACTIVE",
@@ -6082,7 +5839,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "243",
       "metric_number": 243,
       "name": "kilovolt-ampere-hours-reactive",
       "enum_name": "UNITS_KILOVOLT_AMPERE_HOURS_REACTIVE",
@@ -6107,7 +5863,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "244",
       "metric_number": 244,
       "name": "megavolt-ampere-hours-reactive",
       "enum_name": "UNITS_MEGAVOLT_AMPERE_HOURS_REACTIVE",
@@ -6132,7 +5887,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "245",
       "metric_number": 245,
       "name": "volt-square-hours",
       "enum_name": "UNITS_VOLT_SQUARE_HOURS",
@@ -6157,7 +5911,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "246",
       "metric_number": 246,
       "name": "ampere-square-hours",
       "enum_name": "UNITS_AMPERE_SQUARE_HOURS",
@@ -6182,7 +5935,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "247",
       "metric_number": 247,
       "name": "joule-per-hours",
       "enum_name": "UNITS_JOULE_PER_HOURS",
@@ -6207,7 +5959,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "248",
       "metric_number": 248,
       "name": "cubic-feet-per-day",
       "enum_name": "UNITS_CUBIC_FEET_PER_DAY",
@@ -6232,7 +5983,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "249",
       "metric_number": 249,
       "name": "cubic-meters-per-day",
       "enum_name": "UNITS_CUBIC_METERS_PER_DAY",
@@ -6257,7 +6007,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "250",
       "metric_number": 250,
       "name": "watt-hours-per-cubic-meter",
       "enum_name": "UNITS_WATT_HOURS_PER_CUBIC_METER",
@@ -6282,7 +6031,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "251",
       "metric_number": 251,
       "name": "joules-per-cubic-meter",
       "enum_name": "UNITS_JOULES_PER_CUBIC_METER",
@@ -6307,7 +6055,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "252",
       "metric_number": 252,
       "name": "mole-percent",
       "enum_name": "UNITS_MOLE_PERCENT",
@@ -6332,7 +6079,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "253",
       "metric_number": 253,
       "name": "pascal-seconds",
       "enum_name": "UNITS_PASCAL_SECONDS",
@@ -6357,7 +6103,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "254",
       "metric_number": 254,
       "name": "million-standard-cubic-feet-per-minute",
       "enum_name": "UNITS_MILLION_STANDARD_CUBIC_FEET_PER_MINUTE",
@@ -6382,7 +6127,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "47808",
       "metric_number": 47808,
       "name": "standard-cubic-feet-per-day",
       "enum_name": "UNITS_STANDARD_CUBIC_FEET_PER_DAY",
@@ -6407,7 +6151,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "47809",
       "metric_number": 47809,
       "name": "million-standard-cubic-feet-per-day",
       "enum_name": "UNITS_MILLION_STANDARD_CUBIC_FEET_PER_DAY",
@@ -6432,7 +6175,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "47810",
       "metric_number": 47810,
       "name": "thousand-cubic-feet-per-day",
       "enum_name": "UNITS_THOUSAND_CUBIC_FEET_PER_DAY",
@@ -6457,7 +6199,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "47811",
       "metric_number": 47811,
       "name": "thousand-standard-cubic-feet-per-day",
       "enum_name": "UNITS_THOUSAND_STANDARD_CUBIC_FEET_PER_DAY",
@@ -6482,7 +6223,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "47812",
       "metric_number": 47812,
       "name": "pounds-mass-per-day",
       "enum_name": "UNITS_POUNDS_MASS_PER_DAY",
@@ -6507,7 +6247,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "47814",
       "metric_number": 47814,
       "name": "millirems",
       "enum_name": "UNITS_MILLIREMS",
@@ -6532,7 +6271,6 @@
       "permission": "read-write"
     },
     {
-      "metric_id": "47815",
       "metric_number": 47815,
       "name": "millirems-per-hour",
       "enum_name": "UNITS_MILLIREMS_PER_HOUR",
