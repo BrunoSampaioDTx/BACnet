@@ -23,7 +23,7 @@ tooling.
 | `description` | Short description of the quantity. |
 | `unit` | Unit symbol (e.g. `°C`, `kWh`, `m³/h`). |
 | `category` | Grouping (`temperature`, `electrical`, `energy`, …). |
-| `data_type`, `encoding`, `size_bits`, `size_bytes` | Wire encoding of the carried value. |
+| `encoding`, `size_bits`, `size_bytes` | Wire encoding of the carried value. |
 | `value_min`, `value_max`, `resolution`, `step` | Range and smallest meaningful increment of the carried `REAL` value (`step` is IEEE 754 single-precision epsilon at value 1.0, ≈ `1.1920929e-07`). |
 | `sparkplug_data_type` / `sparkplug_data_type_value` | Sparkplug B mapping. |
 | `permission` | Access mode of `Present_Value`. `read-write` because Analog Output `Present_Value` is commandable and Analog Value `Present_Value` is writable when commandable; Analog Input `Present_Value` is also writable while `Out_Of_Service` is `TRUE`. |
